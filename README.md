@@ -1,4 +1,4 @@
-# print-github-action-event-proprties
+# print-github-action-event-properties
 Github Actions that print all github action event properties.
 
 Used for testing purposes of `github actions` see `.github/workflows/`

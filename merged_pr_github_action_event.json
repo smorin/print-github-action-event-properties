@@ -4,15 +4,15 @@
   "pull_request": {
     "_links": {
       "comments": {
-        "href": "https://api.github.com/repos/smorin/print-github-action-event-proprties/issues/1/comments"
+        "href": "https://api.github.com/repos/smorin/print-github-action-event-properties/issues/1/comments"
       },
       "commits": {
-        "href": "https://api.github.com/repos/smorin/print-github-action-event-proprties/pulls/1/commits"
+        "href": "https://api.github.com/repos/smorin/print-github-action-event-properties/pulls/1/commits"
       },
       "html": {
-    "name": "print-github-action-event-proprties",
+    "name": "print-github-action-event-properties",
     "node_id": "R_kgDOOc7p2w",
-    "notifications_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/notifications{?since,all,participating}",
+    "notifications_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/notifications{?since,all,participating}",
     "open_issues": 0,
     "open_issues_count": 0,
     "owner": {
@@ -37,23 +37,23 @@
       "user_view_type": "public"
     },
     "private": false,
-    "pulls_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/pulls{/number}",
+    "pulls_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/pulls{/number}",
     "pushed_at": "2025-04-21T04:07:41Z",
-    "releases_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/releases{/id}",
+    "releases_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/releases{/id}",
     "size": 0,
-    "ssh_url": "git@github.com:smorin/print-github-action-event-proprties.git",
+    "ssh_url": "git@github.com:smorin/print-github-action-event-properties.git",
     "stargazers_count": 0,
-    "stargazers_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/stargazers",
-    "statuses_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/statuses/{sha}",
-    "subscribers_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/subscribers",
-    "subscription_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/subscription",
-    "svn_url": "https://github.com/smorin/print-github-action-event-proprties",
-    "tags_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/tags",
-    "teams_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/teams",
+    "stargazers_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/stargazers",
+    "statuses_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/statuses/{sha}",
+    "subscribers_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/subscribers",
+    "subscription_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/subscription",
+    "svn_url": "https://github.com/smorin/print-github-action-event-properties",
+    "tags_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/tags",
+    "teams_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/teams",
     "topics": [],
-    "trees_url": "https://api.github.com/repos/smorin/print-github-action-event-proprties/git/trees{/sha}",
+    "trees_url": "https://api.github.com/repos/smorin/print-github-action-event-properties/git/trees{/sha}",
     "updated_at": "2025-04-21T04:06:13Z",
-    "url": "https://api.github.com/repos/smorin/print-github-action-event-proprties",
+    "url": "https://api.github.com/repos/smorin/print-github-action-event-properties",
     "visibility": "public",
     "watchers": 0,
     "watchers_count": 0,
