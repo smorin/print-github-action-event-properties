@@ -1,0 +1,15 @@
+name: Print Event Context
+
+on:
+  pull_request:
+    branches: [ main ]
+    types: [opened, closed]
+
+jobs:
+  print_context:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          EVENT_CONTEXT: ${{ toJSON(github.event) }}
+        run: |
+          echo "$EVENT_CONTEXT" 
