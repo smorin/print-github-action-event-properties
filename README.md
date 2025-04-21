@@ -12,5 +12,6 @@ These files contain example JSON payloads for the `github.event` context object 
 *   [`opened_issue_github_action_event.json`](./opened_issue_github_action_event.json): Event context when an issue is opened.
 *   [`closed_issue_github_action_event.json`](./closed_issue_github_action_event.json): Event context when an issue is closed.
 
-Misc change to readme for PR testing
-
+Github Documentation:
+- [Triggering a workflow](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/triggering-a-workflow)
+- [Jobs in workflows](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/using-jobs-in-a-workflow)
